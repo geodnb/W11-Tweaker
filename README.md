@@ -4,6 +4,16 @@ A single-file PowerShell tool with a proper window for turning Windows 11 optimi
 
 Each tweak is labelled honestly by how much evidence there is behind it, from "Recommended" down to "Unproven", and the risky ones say exactly what they trade away.
 
+## Screenshots
+
+![W11 Tweaker main window with a Security tweak selected, showing its evidence, warning and the exact setting it changes](screenshots/main-window-security.png)
+
+*A Security tweak selected: the panel on the right explains what it does, what the evidence says, the trade-off, and the exact registry value it changes.*
+
+![W11 Tweaker showing the Input, Network, Storage and Desktop categories with Game Mode selected](screenshots/main-window-input-desktop.png)
+
+*Tiers, live status and what each change needs (restart, sign-out or Explorer restart) at a glance.*
+
 ## Features
 
 - **71 tweaks** across gaming and graphics, power, CPU and timers, security trade-offs, privacy and AI, background apps and updates, input, network, storage, and desktop.
