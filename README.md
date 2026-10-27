@@ -4,6 +4,8 @@ W11 Tweaker is a Windows 11 optimisation tool with a clean, easy-to-use interfac
 
 Each tweak is labelled honestly by how much evidence there is behind it, from "Recommended" down to "Unproven", and the risky ones say exactly what they trade away.
 
+**[⬇ Download the latest version (ZIP)](https://github.com/geodnb/W11-Tweaker/releases/latest/download/W11-Tweaker.zip)** · [All releases](https://github.com/geodnb/W11-Tweaker/releases)
+
 ## Features
 
 - **71 tweaks** across gaming and graphics, power, CPU and timers, security trade-offs, privacy and AI, background apps and updates, input, network, storage, and desktop.
@@ -201,9 +203,11 @@ Deliberately **not** included: turning off Defender, UAC, Smart App Control (can
 
 ## Usage
 
-1. Download `W11Tweaker.ps1` and `Run W11 Tweaker.cmd` into the same folder.
+1. [Download the ZIP](https://github.com/geodnb/W11-Tweaker/releases/latest/download/W11-Tweaker.zip) and extract it. Keep `W11Tweaker.ps1` and `Run W11 Tweaker.cmd` in the same folder.
 2. Double-click **Run W11 Tweaker.cmd** and approve the admin prompt.
 3. Tick or untick tweaks, then press **Apply**. The status line tells you if a restart, sign-out or Explorer restart is needed.
+
+If Windows shows a security warning about running a downloaded file, choose **Run**, or right-click the ZIP before extracting, choose **Properties** and tick **Unblock**.
 
 Logs and the snapshot live in `%ProgramData%\W11Tweaker`.
 
