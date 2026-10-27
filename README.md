@@ -211,9 +211,7 @@ For best security, keep the tool in a folder only administrators can write to (f
 
 ## Licence
 
-This project is **not released under an open-source licence**. All rights reserved.
-
-You're welcome to download and run W11 Tweaker on your own PCs and to read the code. Please don't redistribute or republish it, modified or unmodified, without permission.
+Released under the [MIT Licence](LICENSE). You're free to use, modify and share W11 Tweaker, including in your own projects, as long as you keep the copyright notice. Contributions and forks are welcome.
 
 ## Disclaimer
 
