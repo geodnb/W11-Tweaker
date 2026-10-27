@@ -211,9 +211,15 @@ For best security, keep the tool in a folder only administrators can write to (f
 
 ## Licence
 
-Copyright (C) 2026 geodnb. Released under the [GNU General Public Licence v3.0](LICENSE) (GPL-3.0-or-later).
+Copyright (C) 2026 geodnb. Released under the [PolyForm Noncommercial License 1.0.0](LICENSE.md).
 
-In short: you're free to use, study, modify and share W11 Tweaker. If you distribute it or anything based on it, including selling it, you must release the full source code under the same GPL licence and keep the copyright notices. It can't be turned into a closed-source product.
+In short:
+
+- **Free for non-commercial use.** Personal use, hobby projects, education, charities and other non-commercial organisations can use, modify and share it.
+- **No selling and no commercial use** without permission. That includes selling the tool or modified versions, bundling it into paid products, or using it as part of a paid service.
+- **Keep the notice.** Anyone sharing a copy must include the licence and the `Required Notice` line crediting the author.
+
+This makes W11 Tweaker *source-available* rather than open source in the official sense. For commercial use, open an issue on GitHub to ask.
 
 ## Disclaimer
 

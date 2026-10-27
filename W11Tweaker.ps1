@@ -4,12 +4,10 @@
     Tiered Windows 11 optimisation toggles with an automatic snapshot of every
     original value and one-click restore.
 
-    Copyright (C) 2026 geodnb
-    SPDX-License-Identifier: GPL-3.0-or-later
-    This program is free software: you can redistribute it and/or modify it under the
-    terms of the GNU General Public License as published by the Free Software Foundation,
-    either version 3 of the License, or (at your option) any later version. It is
-    distributed WITHOUT ANY WARRANTY; see the LICENSE file for details.
+    Required Notice: Copyright (C) 2026 geodnb (https://github.com/geodnb/W11-Tweaker)
+    SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+    Free for non-commercial use; selling or commercial use is not permitted without
+    permission. Provided WITHOUT ANY WARRANTY. See LICENSE.md for the full terms.
     https://github.com/geodnb/W11-Tweaker
 
     Launch with "Run W11 Tweaker.cmd" (or right-click > Run with PowerShell).
