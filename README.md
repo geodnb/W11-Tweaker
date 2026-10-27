@@ -4,6 +4,8 @@ W11 Tweaker is a Windows 11 optimisation tool with a clean, easy-to-use interfac
 
 Each tweak is labelled honestly by how much evidence there is behind it, from "Recommended" down to "Unproven", and the risky ones say exactly what they trade away.
 
+> **Official download:** W11 Tweaker is only distributed at [github.com/geodnb/W11-Tweaker](https://github.com/geodnb/W11-Tweaker). It's free. If you paid for it or got it from anywhere else, it may have been modified, so don't run it.
+
 **[⬇ Download the latest version (ZIP)](https://github.com/geodnb/W11-Tweaker/releases/latest/download/W11-Tweaker.zip)** · [All releases](https://github.com/geodnb/W11-Tweaker/releases)
 
 ## Features
