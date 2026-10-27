@@ -1,6 +1,6 @@
 # W11 Tweaker
 
-A single-file PowerShell tool with a proper window for turning Windows 11 optimisations on and off — with every original setting saved first, so anything it changes can be put back.
+W11 Tweaker is a Windows 11 optimisation tool with a clean, easy-to-use interface. Turn tweaks on or off with a click; every original setting is saved first, so anything it changes can be put back.
 
 Each tweak is labelled honestly by how much evidence there is behind it, from "Recommended" down to "Unproven", and the risky ones say exactly what they trade away.
 
