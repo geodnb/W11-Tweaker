@@ -211,7 +211,9 @@ For best security, keep the tool in a folder only administrators can write to (f
 
 ## Licence
 
-Released under the [MIT Licence](LICENSE). You're free to use, modify and share W11 Tweaker, including in your own projects, as long as you keep the copyright notice. Contributions and forks are welcome.
+Copyright (C) 2026 geodnb. Released under the [GNU General Public Licence v3.0](LICENSE) (GPL-3.0-or-later).
+
+In short: you're free to use, study, modify and share W11 Tweaker. If you distribute it or anything based on it, including selling it, you must release the full source code under the same GPL licence and keep the copyright notices. It can't be turned into a closed-source product.
 
 ## Disclaimer
 
