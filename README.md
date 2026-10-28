@@ -1,10 +1,12 @@
 # W11 Tweaker
 
-W11 Tweaker is a Windows 11 optimisation tool with a clean, easy-to-use interface and 71 tweaks covering gaming & graphics, power, CPU & timers, security trade-offs, privacy & AI, background apps & updates, input, network, storage, and desktop & File Explorer settings. Turn tweaks on or off with a click; every original setting is saved first, so anything it changes can be put back.
+W11 Tweaker is a Windows 11 tool with an easy-to-use UI.
 
-Each tweak is labelled honestly by how much evidence there is behind it, from "Recommended" down to "Unproven", and the tool explains every one: what it does, what the evidence says, and exactly what the risky ones trade away.
+Featuring 71 tweaks covering Gaming & graphics, Power, CPU & timers, Security trade-offs, Privacy & AI, Background apps & updates, Input, Network, Storage, and Desktop & File Explorer settings. Turn tweaks on or off with a click; every original setting is saved first, so anything it changes can be easily reverted.
 
-You can undo any tweak on its own or put everything back with one click (only the clearly marked app removals are one-way), it offers a Windows restore point before your first change, and it checks for things like BitLocker and locked security settings before touching anything risky.
+Each tweak is labelled with how much evidence there is behind it, from "Recommended" down to "Unproven", and the tool explains every one: what it does, what the evidence says, and exactly what the risky ones trade away.
+
+You can undo any tweak on its own or put everything back with one click (only the clearly marked app removals are one-way), and it creates a Windows restore point before your first change, enabled by default. It also checks for things like BitLocker and locked security settings before touching anything risky.
 
 **[⬇ Download the latest version (ZIP)](https://github.com/geodnb/W11-Tweaker/releases/latest/download/W11-Tweaker.zip)** · [All releases](https://github.com/geodnb/W11-Tweaker/releases)
 
