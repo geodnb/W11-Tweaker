@@ -1,6 +1,6 @@
 # W11 Tweaker
 
-W11 Tweaker is a Windows 11 optimisation tool with a clean, easy-to-use interface. Turn tweaks on or off with a click; every original setting is saved first, so anything it changes can be put back.
+W11 Tweaker is a Windows 11 optimisation tool with a clean, easy-to-use interface and 71 tweaks covering gaming and graphics, power, CPU and timers, security trade-offs, privacy and AI, background apps and updates, input, network, storage, and the desktop. Turn tweaks on or off with a click; every original setting is saved first, so anything it changes can be put back.
 
 Each tweak is labelled honestly by how much evidence there is behind it, from "Recommended" down to "Unproven", and the tool explains every one: what it does, what the evidence says, and exactly what the risky ones trade away.
 
