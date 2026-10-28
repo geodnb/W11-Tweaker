@@ -2,9 +2,9 @@
 
 W11 Tweaker is a Windows 11 optimisation tool with a clean, easy-to-use interface. Turn tweaks on or off with a click; every original setting is saved first, so anything it changes can be put back.
 
-Each tweak is labelled honestly by how much evidence there is behind it, from "Recommended" down to "Unproven", and the risky ones say exactly what they trade away.
+Each tweak is labelled honestly by how much evidence there is behind it, from "Recommended" down to "Unproven", and the tool explains every one: what it does, what the evidence says, and exactly what the risky ones trade away.
 
-Safety comes first: you can undo any tweak on its own or put everything back with one click (only the clearly marked app removals are one-way), it offers a Windows restore point before your first change, and it checks for things like BitLocker and locked security settings before touching anything risky.
+You can undo any tweak on its own or put everything back with one click (only the clearly marked app removals are one-way), it offers a Windows restore point before your first change, and it checks for things like BitLocker and locked security settings before touching anything risky.
 
 > **Official download:** W11 Tweaker is only distributed at [github.com/geodnb/W11-Tweaker](https://github.com/geodnb/W11-Tweaker). It's free. If you paid for it or got it from anywhere else, it may have been modified, so don't run it.
 
