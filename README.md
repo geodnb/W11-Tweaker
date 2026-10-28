@@ -6,8 +6,6 @@ Each tweak is labelled honestly by how much evidence there is behind it, from "R
 
 You can undo any tweak on its own or put everything back with one click (only the clearly marked app removals are one-way), it offers a Windows restore point before your first change, and it checks for things like BitLocker and locked security settings before touching anything risky.
 
-> **Official download:** W11 Tweaker is only distributed at [github.com/geodnb/W11-Tweaker](https://github.com/geodnb/W11-Tweaker). It's free. If you paid for it or got it from anywhere else, it may have been modified, so don't run it.
-
 **[⬇ Download the latest version (ZIP)](https://github.com/geodnb/W11-Tweaker/releases/latest/download/W11-Tweaker.zip)** · [All releases](https://github.com/geodnb/W11-Tweaker/releases)
 
 ## Features
