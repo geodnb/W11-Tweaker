@@ -23,9 +23,7 @@ You can undo any tweak on its own or put everything back with one click (only th
 - **Applies instantly where possible.** Mouse, keyboard and accessibility tweaks take effect without signing out.
 - **Quiet by design.** Routine changes apply with no pop-ups; you're only asked to confirm risky or one-way changes.
 
-## Screenshot
-
-![W11 Tweaker main window with a Security tweak selected, showing its evidence, warning and the exact setting it changes](screenshots/main-window-security.png)
+- ![W11 Tweaker main window with a Security tweak selected, showing its evidence, warning and the exact setting it changes](screenshots/main-window-security.png)
 
 *A Security tweak selected: the panel on the right explains what it does, what the evidence says, the trade-off, and the exact registry value it changes.*
 
